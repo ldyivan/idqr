@@ -80,13 +80,13 @@ a:hover{
 
 .site > .links{
     position: absolute;
-    padding-left: 74px;
+    padding-left: 35px;
     top: 0px;
-    left: 0px;
-    transform-origin: 27px;
+    left: 40px;
+    transform-origin: 74px;
     transform: rotateY(-90deg);
     opacity: 0;
-    line-height: 64px;
+    line-height: 30px;
     
             transform-style: preserve-3d;
        -moz-transform-style: preserve-3d;
